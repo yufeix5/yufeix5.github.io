@@ -1,6 +1,6 @@
 # Yufei Xia
 
-Email: Yufeix5@uw.edu | [Github Page](https://github.com/yufeix5) | [Linkedin Page](https://www.linkedin.com/in/yufei-xia-115b6a197/)
+Email: Yufeix5@uw.edu | [Github Page](https://github.com/yufeix5) | [Linkedin](https://www.linkedin.com/in/yufei-xia-115b6a197/)
 
 ## Summary
 
