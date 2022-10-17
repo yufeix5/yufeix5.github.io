@@ -9,7 +9,7 @@ Email: Yufeix5@uw.edu | [Github Page](https://github.com/yufeix5) | [Linkedin](h
 
 ***
 ***I have a cat*** called ***Jasmine***
-<img src="./assets/cat.JPG" alt="Jasmine cat" style="width:200px;"/>
+<img src="assets/cat.JPG" alt="Jasmine cat" style="width:200px;"/>
 
 
 ## SKILLS
